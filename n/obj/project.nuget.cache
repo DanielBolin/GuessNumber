@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ATBSv+T33f87oOvZIJinWSwjkq4Qjio+peItNorMbVndhTOxU8hhku/kL2scfIO4Vh+n0u0Yclzb/s239E6N0Q==",
+  "success": true,
+  "projectFilePath": "/Users/daniel/Desktop/程式設計/C#/猜數字/n/n.csproj",
+  "expectedPackageFiles": [
+    "/Users/daniel/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
